@@ -36,7 +36,7 @@ public class WhileTest {
 	 }
 	 while(i <= 10);
 	 
-	 System.out.println("1부터 10까지 짝수함 : "+eSum);
+	 System.out.println("1부터 10까지 짝수합 : "+eSum);
 	 
 	  // break
 	 int num = 0;
