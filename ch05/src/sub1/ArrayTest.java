@@ -36,6 +36,7 @@ public class ArrayTest {
 	for(String person : people) {
 		System.out.println(person+", ");
 		
+		
 	}
 	
 	}
