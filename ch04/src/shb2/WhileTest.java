@@ -23,6 +23,7 @@ public class WhileTest {
 	 System.out.println("1부터 10까지 합: "+sum);
 	 		
 	  // do~ while 일단 실행 후 조건문에 따라 결정
+	 
 	 int eSum = 0;
 	 int i = 1;
 	 
