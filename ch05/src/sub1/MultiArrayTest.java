@@ -78,6 +78,7 @@ public class MultiArrayTest {
 		System.out.println("3차원 배열 3면1행 3열 : "+arr3d[2][0][2]);
 		System.out.println("3차원 배열 3면4행 3열 : "+arr3d[2][3][2]);
 
+		
 	}
 
 }
