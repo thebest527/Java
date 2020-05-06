@@ -1,4 +1,6 @@
 package test01;
+import java.util.Scanner;
+
 /* 날짜 : 2020/05/01
  * 이름 : 박수령
  * 내용 : 자바 데이터 타입 연습문제
