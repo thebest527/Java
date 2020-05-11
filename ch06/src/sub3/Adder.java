@@ -34,6 +34,7 @@ public class Adder {
 	
 	public void addNew(Adder a2) {
 		a2 = new Adder(1);
+		
 	}
 
 }

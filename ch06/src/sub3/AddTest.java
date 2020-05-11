@@ -8,7 +8,7 @@ package sub3;
 public class AddTest {
 	public static void main(String[] args) {
 		
-		int arr[] = {10,20,30};
+		int arr[] = {10, 20, 30};
 		Adder a = new Adder(100);
 		
 		a.add(100);
