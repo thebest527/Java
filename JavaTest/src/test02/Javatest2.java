@@ -12,19 +12,19 @@ public class Javatest2 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		input;
-		System.out.println("input °ª ÀÔ·Â : ");
+		int input;
+		System.out.print("input °ª ÀÔ·Â : ");
 		
 		input = sc.nextInt() ;
-		int result = ;
+		int result = (1 + 2) * input;
 		
-		System.out.println("(1+2) x input = "+result);
+		System.out.println("(1 + 2) x input = "+result);
 		
-		name;
+		String name;
 		System.out.println("name °ª ÀÔ·Â : ");
 		
 		name = sc.next();
-		String hello = "¾È³ç È«±æµ¿´Ô ¹Ý°©½À´Ï´Ù." ;
+		String hello = "¾È³ç! "+name+"´Ô ¹Ý°©½À´Ï´Ù." ;
 		
 		System.out.println(hello);
 		
