@@ -56,11 +56,11 @@ public class ForTest {
 			
 			for(int end=1 ; end <= start ; end++) {
 				
-				System.out.println("¡Ù");
+				System.out.print("¡Ù");
 				
 			}
 			
-			System.out.println("n");
+			System.out.print("n");
 			
 		}
 		
@@ -68,14 +68,14 @@ public class ForTest {
 		for(int a=1 ; a<=5 ; a++) {
 			
 			for(int b=1 ; b<=5-a ; b++) {
-				System.out.println("¡Ù");
+				System.out.print("¡Ù");
 			}
 			
 			for(int c=1 ; c<=5-a ; c++) {
-				System.out.println("¡Ú");
+				System.out.print("¡Ú");
 			}
 			
-			System.out.println("n");
+			System.out.print("n");
 			
 			}
 		
